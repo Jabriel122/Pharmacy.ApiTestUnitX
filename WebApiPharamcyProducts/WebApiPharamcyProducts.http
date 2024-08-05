@@ -1,0 +1,6 @@
+@WebApiPharamcyProducts_HostAddress = http://localhost:5229
+
+GET {{WebApiPharamcyProducts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
