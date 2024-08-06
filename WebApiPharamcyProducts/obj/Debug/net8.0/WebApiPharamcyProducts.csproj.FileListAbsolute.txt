@@ -145,3 +145,5 @@ C:\Users\50849167825\Desktop\Senai\4°Semestre\Pharmacy.ApiTestUnitX\WebApiPhara
 C:\Users\50849167825\Desktop\Senai\4°Semestre\Pharmacy.ApiTestUnitX\WebApiPharamcyProducts\obj\Debug\net8.0\WebApiPharamcyProducts.pdb
 C:\Users\50849167825\Desktop\Senai\4°Semestre\Pharmacy.ApiTestUnitX\WebApiPharamcyProducts\obj\Debug\net8.0\WebApiPharamcyProducts.genruntimeconfig.cache
 C:\Users\50849167825\Desktop\Senai\4°Semestre\Pharmacy.ApiTestUnitX\WebApiPharamcyProducts\obj\Debug\net8.0\ref\WebApiPharamcyProducts.dll
+C:\Users\50849167825\Desktop\Senai\4°Semestre\Pharmacy.ApiTestUnitX\WebApiPharamcyProducts\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\50849167825\Desktop\Senai\4°Semestre\Pharmacy.ApiTestUnitX\WebApiPharamcyProducts\bin\Debug\net8.0\Moq.dll

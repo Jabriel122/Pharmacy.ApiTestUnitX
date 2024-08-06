@@ -12,5 +12,7 @@ namespace WebApiPharamcyProducts.Interface
 
         public void Delete(Guid id);
 
+        public void Update(ProductsDomain productsDomain, Guid id);
+
     }
 }

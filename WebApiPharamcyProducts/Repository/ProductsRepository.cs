@@ -63,5 +63,17 @@ namespace WebApiPharamcyProducts.Repository
             _pharmacyContext.ProductsDomain.Remove(productsBuscar);
             _pharmacyContext.SaveChanges();
         }
+
+        public void Update(ProductsDomain productsDomain, Guid id)
+        {
+            ProductsDomain productsDomainBuscar = _pharmacyContext.ProductsDomain.Find(id)!;
+            if(productsDomainBuscar != null)
+            {
+                productsDomainBuscar.Price = productsDomain.Price;
+                productsDomainBuscar.Name = productsDomain.Name;
+            }
+            _pharmacyContext.Update(productsDomainBuscar);
+            _pharmacyContext.SaveChanges();
+        }
     }
 }

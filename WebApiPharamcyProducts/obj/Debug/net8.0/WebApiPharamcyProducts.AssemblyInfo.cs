@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiPharamcyProducts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bc28b38585c478845cbe73f9423fe72a9672e36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee9f27119778e68a51f259da025bd84d696154a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiPharamcyProducts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiPharamcyProducts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
